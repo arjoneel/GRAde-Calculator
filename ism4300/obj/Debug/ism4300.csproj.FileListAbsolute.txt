@@ -1,0 +1,10 @@
+C:\Users\orpit\Desktop\week2\ism4300\bin\Debug\ism4300.exe.config
+C:\Users\orpit\Desktop\week2\ism4300\bin\Debug\ism4300.exe
+C:\Users\orpit\Desktop\week2\ism4300\bin\Debug\ism4300.pdb
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.csprojAssemblyReference.cache
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.Form1.resources
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.Properties.Resources.resources
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.csproj.GenerateResource.cache
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.csproj.CoreCompileInputs.cache
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.exe
+C:\Users\orpit\Desktop\week2\ism4300\obj\Debug\ism4300.pdb
